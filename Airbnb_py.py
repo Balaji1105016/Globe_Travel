@@ -327,37 +327,11 @@ if st.session_state.login_status:
         img_path = r"C:\Users\Balaji\Music\Personal_Pic\Balaji_pic.jpeg"
         img = Image.open(img_path)
         st.image(img, caption="""Name: BALAJI BALAKRISHNAN(Data Engineer)""", use_column_width=True)
-        st.write("Applitaion Name: ")
+        st.write("Applitaion Name: Globe-Travel")
         st.write("Developed By: Balaji Balakrishnan")
         st.write("Designation: Data Engineer")
         st.write("Industry Experience: 7+ Years")
         st.write("Worked Companies: FLEX,TCS,DvSuM India Private Limited")
         st.write("Tech Skills: SQL,PL-SQL,Oracle,Python,MongoDB,AWS,Tableau,Streamlit,ServiceNow")
         st.markdown("Linkedin URL: https://www.linkedin.com/in/balaji-balakrishnan-34471b167/")
-        st.markdown("GitHub URL: ")
-
-
-        
-
-            
-            
-        
-            
-            
-            
-            
-            
-
-
-     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+        st.markdown("GitHub URL: https://github.com/Balaji1105016/Globe_Travel.git")
